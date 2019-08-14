@@ -81,6 +81,6 @@ def question_generator(text):
         else:
             toggle = True
             ques = verb_ques(sent)
-        print("sentence: ", sent)
-        print("question: ", ques)
-        print()
+        #print("sentence: ", sent)
+        #print("question: ", ques)
+        #print()
